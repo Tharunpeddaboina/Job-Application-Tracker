@@ -94,6 +94,4 @@ The frontend will run on `http://localhost:5173` (default Vite port).
 - `PATCH /api/v1/jobs/:id` – Update a job
 - `DELETE /api/v1/jobs/:id` – Delete a job
 
-## License
 
-This project is licensed under the ISC License.
